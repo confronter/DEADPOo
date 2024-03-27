@@ -1,6 +1,5 @@
 # Trapster-Md
 Trapster-Md made by Frank best and easy whatsapp bot 🤖 with many features enjoy 😊 star ⭐️ repo
-   # Trapster-MD 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=Trapster-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
   
