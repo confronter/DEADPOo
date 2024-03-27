@@ -29,7 +29,7 @@ Fork The Repo
 
 <a href="https://phoenix-md-sessionid-0b60ee6f3386.herokuapp.com/"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
-## Phoenix-MD Deploy Method
+## Trapster-MD Deploy Method
 
 
 ### Deploy Codespace
@@ -53,6 +53,6 @@ Fork The Repo
  
  ## Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT GROUP: <a href="https://chat.whatsapp.com/GvwkRUKmJJWLQy4P34GD8l"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 **Star ⭐ The Repo For Amazing Commands**
