@@ -23,7 +23,7 @@ Phoenix-MD Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/Phoenix-MD/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Confronter/Trapster-MD/fork"><img title="TRAPSTER-MD" src="https://img.shields.io/badge/FORK Trapster MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
 
