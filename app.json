@@ -4,7 +4,7 @@
   "description": "Trapster-MD Simple WhatsApp Bot Whatsapp me +254793908571",
   "logo": "https://telegra.ph/file/d2c30b012065dd6fa5ba1.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/AbhishekSuresh2/Phoenix-MD",
+  "repository": "https://github.com/Confronter/Trapster-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
