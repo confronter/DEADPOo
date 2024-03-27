@@ -40,11 +40,6 @@
       "description": "Enter Your Bot Name",
       "required": false,
       "value": "𝚃𝚁𝙰𝙿𝚂𝚃𝙴𝚁-𝙼𝙳"
-    }, 
-    "USER_IMAGES": {
-      "description": "Image for bot",
-      "required" :false,    
-      "value": "https://telegra.ph/file/d2c30b012065dd6fa5ba1.jpg"  },
    },
     "WORK_TYPE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
