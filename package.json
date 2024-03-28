@@ -1,18 +1,18 @@
 {
-  "name": "Phoenix-MD",
+  "name": "Trapster-MD",
   "description": "A Simple WhatsApp Bot",
   "version": "1.8.0",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "pm2 start . --attach --name Phoenix-MD"
+      "start": "pm2 start . --attach --name Trapster-MD"
   },
   "keywords": [
    "termux",
    "whatsapp",
    "MD",
-   "Phoenix-MD",
+   "TRAPSTER-MD",
    "WhatsApp-MD",
    "baileys-md",
    "wa-bot",
@@ -21,7 +21,7 @@
    "terumx-bot",
    "multi-device"
   ],
-  "author": "Abhishek Suresh",
+  "author": "Frank Confronter",
   "license": "Apache-2.0",
   "dependencies": {
    "@whiskeysockets/baileys": "^6.5.0",
@@ -90,10 +90,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/AbhishekSuresh2/Phoenix-MD.git"
+  "url": "git+https://github.com/Confronter/Trapster-MD.git"
  },
  "bugs": {
-  "url": "https://github.com/AbhishekSuresh2/Phoenix-MD/issues"
+  "url": "https://github.com/Confronter/Trapster-MD/issues"
  },
- "homepage": "https://github.com/AbhishekSuresh2/Phoenix-MD#readme"
+ "homepage": "https://github.com/Confronter/Trapster-MD#readme"
 }
