@@ -2,7 +2,7 @@
   "name": "DEADPOOL-MD",
   "version": "1.0.0",
   "description": "DEADPOOL-MD Simple WhatsApp Bot",
-  "logo": "https://i.imgur.com/T78fhJk.jpeg",
+  "logo": "https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "DEADPOOL", "DEADPOOL-MD", "wabot", "termux-bot", "sc-bot", "plugins", "Confronter", "Whatsapp-bot-md"],
   "repository": "https://github.com/Confronter/DEADPOOL-MD",
   "stack": "container",
@@ -34,7 +34,7 @@
     "AUDIO_DATA": {
       "description": "Enter Your Audio Data",
       "required": false,
-      "value": "Phoenix-MD;Abhishek Suresh;https://graph.org/file/8976892f2f615077b48cd.jpg"
+      "value": "DEADPOOL-MD;FRANK;https://telegra.ph/file/e72bd57ff8ed761e85b4a.jpg"
     },
     "OWNER_NAME": {
       "description": "Enter Your Owner Name",
