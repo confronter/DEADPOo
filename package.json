@@ -1,18 +1,18 @@
 {
-  "name": "Trapster-MD",
+  "name": "DEADPOOL-MD",
   "description": "A Simple WhatsApp Bot",
   "version": "1.8.0",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "pm2 start . --attach --name Trapster-MD"
+      "start": "pm2 start . --attach --name Phoenix-MD"
   },
   "keywords": [
    "termux",
    "whatsapp",
    "MD",
-   "TRAPSTER-MD",
+   "DEADPOOL-MD",
    "WhatsApp-MD",
    "baileys-md",
    "wa-bot",
@@ -21,10 +21,10 @@
    "terumx-bot",
    "multi-device"
   ],
-  "author": "Frank Confronter",
+  "author": "Frank",
   "license": "Apache-2.0",
   "dependencies": {
-   "@whiskeysockets/baileys": "^6.5.0",
+   "@whiskeysockets/baileys": "^6.7.2",
     "@adiwajshing/keyed-db": "^0.2.4",
     "abhishek-ytube": "^1.0.0",
     "awesome-phonenumber": "^3.4.0",
@@ -38,9 +38,11 @@
     "fluent-ffmpeg": "latest",
     "@ffmpeg-installer/ffmpeg": "latest",
     "@ffprobe-installer/ffprobe": "latest",
+    "form-data": "latest",
     "g-i-s": "^2.1.6",
     "got": "^11.8.2",
     "google-tts-api": "^2.0.2",
+    "@google/generative-ai": "^0.9.0",
     "heroku-client":"^3.1.0",
     "jimp": "^0.16.1",
     "jsdom": "^20.0.0",
@@ -48,6 +50,7 @@
     "koyeb-api": "^1.0.4",
     "moment-timezone": "^0.5.37",
     "node-cron": "^3.0.2",
+    "node-gtts": "^2.0.2",
     "node-webpmux": "^3.1.0",
     "nodemailer": "^6.9.8",
     "openai": "^4.17.4",
@@ -90,10 +93,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/Confronter/Trapster-MD.git"
+  "url": "git+https://github.com/Confronter/DEADPOOL-MD.git"
  },
  "bugs": {
-  "url": "https://github.com/Confronter/Trapster-MD/issues"
+  "url": "https://github.com/Confronter/DEADPOOL-MD/issues"
  },
- "homepage": "https://github.com/Confronter/Trapster-MD#readme"
+ "homepage": "https://github.com/Confronter/DEADPOOL-MD#readme"
 }
