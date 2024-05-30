@@ -26,7 +26,7 @@ Fork The Repo
 <a href="https://github.com/Confronter/Trapster-MD/fork"><img title="TRAPSTER-MD" src="https://img.shields.io/badge/FORK Trapster MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
-
+[Deadpool Pairing](https://replit.com/@confrontermfisa/Deadpool-pairing?s=app)
 <a href="https://phoenix-md-sessionid-0b60ee6f3386.herokuapp.com/"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
 ### DEADPOOL-MD Deploy Method
